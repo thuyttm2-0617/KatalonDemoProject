@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1683312-9ae4-4fb0-b116-97d01f549ea1</testCaseGuid>
+   <variable>
+      <defaultValue>'VN'</defaultValue>
+      <description></description>
+      <id>f7c84061-5be7-47ef-8324-f0138b704d93</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hanoi'</defaultValue>
+      <description></description>
+      <id>c73ebe45-f4aa-4751-a0b6-8db0014a8bea</id>
+      <masked>false</masked>
+      <name>capital_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dong'</defaultValue>
+      <description></description>
+      <id>5c5b9c5c-e57e-4b2a-a753-87504bf12409</id>
+      <masked>false</masked>
+      <name>currency</name>
+   </variable>
+</TestCaseEntity>
